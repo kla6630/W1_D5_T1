@@ -112,10 +112,12 @@ button{
     align-content: center;
     text-align: center;
     position:relative;
+    right: 40px;
 
 }
 
 .p_r2{
+    width: ;
     text-align: center;
     position:relative;
     top: 15px;
